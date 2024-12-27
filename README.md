@@ -11,7 +11,7 @@ Group members:
 ### I. Difficulties Encountered
 - Difficulty in linking columns to address the questions.
 - The author has collected a large number of columns, which made it challenging to focus on the relevant ones.
-- Difficult to use Gihub(by my laptop has error).
+- Difficult to use Github(by my laptop has error).
 
 ### II. Lessons Learned
 - Learned how to ask meaningful and relevant questions.
@@ -27,6 +27,6 @@ Group members:
 - Some questions are simple and have not been thoroughly explored.
 - Learned how to ask meaningful and relevant questions.
 
-### III. Future Improvements (If I Had More Time)
+### Future Improvements (If I Had More Time)
 - Reselect a dataset with more meaningful and focused columns.
 - With additional time, I would ask more targeted and insightful questions.
