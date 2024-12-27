@@ -7,7 +7,7 @@ Group members:
 3. Phạm Văn Quyến - 22127358.
 
 Reflection:
-Anh Quân:
+Anh Quân:  
 I. What difficulties have you encountered?
 - Difficulty in linking columns to meet questions
 - The author collects quite a few columns  
