@@ -10,7 +10,7 @@ Reflection:
 Anh Quân:
 I. What difficulties have you encountered?
 - Difficulty in linking columns to meet questions
-- The author collects quite a few columns
+- The author collects quite a few columns  
 II. What have you learned?
 - Learn how to ask meaningful questions
 - Preprocessing and sources to collect data sets for study and work
